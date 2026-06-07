@@ -1,2 +1,2 @@
 # FsGAN
-a Few shot Gan
+a Few shot Gan project
