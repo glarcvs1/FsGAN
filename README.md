@@ -1,2 +1,2 @@
 # FsGAN
-a Few shot Gan project
+A small-sample image generation project for cervical cancer diagnosis, which is constantly progressing.
